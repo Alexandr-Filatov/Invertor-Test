@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPTG007N06NM5ATMA1
+D N-Channel 60V 53A (Ta), 454A (Tc) 3.8W (Ta), 375W (Tc) Surface Mount PG-HSOG-8-1
+K
+F https://www.infineon.com/dgdl/Infineon-IPTG007N06NM5-DataSheet-v02_00-EN.pdf?fileId=5546d46277921c320177aa3630457d4e
+$ENDCMP
+#
+#End Doc Library
